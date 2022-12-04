@@ -1,0 +1,1 @@
+{ "type": "liquid", "name": "Фосген", "description": "", "color": "f98f4a", "flammability": 0f, "temperature": 0.7f, "heatCapacity": 0.1f, "viscosity": 0f, "explosiveness": 0f "gas":true}

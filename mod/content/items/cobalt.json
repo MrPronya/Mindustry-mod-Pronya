@@ -1,0 +1,1 @@
+{ "type": "material", "name": "Кобальт", "description": "", "color": "353559", "explosiveness": 0f, "flammability": 0f, "radioactivity": 0.5f, "hardness": 6, "cost": 2f, "alwaysUnlocked": true}

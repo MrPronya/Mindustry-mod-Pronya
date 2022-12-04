@@ -1,0 +1,1 @@
+{    type: duct	name: "Палладиевый канал",	description: "Перемещает предметы вперёд.",	category: distribution	itemCapacity: 4	speed: 3f	health: 140	displayedSpeed: 22	requirements:[    palladium/1	]}

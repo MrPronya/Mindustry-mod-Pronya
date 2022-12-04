@@ -1,0 +1,1 @@
+{	"type": "conduit",	"name": "Палладиевый трубопровод",	"health": 350,    "liquidCapacity" : 30,	"description": "Перемещает жидкости вперед",	"requirements": [		{"item": "palladium", "amount": 1},	   ],"category": "liquid","speed": 0.3,}

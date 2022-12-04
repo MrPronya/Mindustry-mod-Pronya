@@ -1,0 +1,1 @@
+{ "type": "liquid", "name": "Углерод", "description": "", "color": "4a4d53", "flammability": 0.3f, "temperature": 0.2f, "heatCapacity": 0.5f, "viscosity": 0.9f, "explosiveness": 0.6f "gas":true}

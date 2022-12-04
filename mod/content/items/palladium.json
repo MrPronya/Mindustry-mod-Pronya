@@ -1,0 +1,1 @@
+{ "type": "material", "name": "Паладий", "description": "", "color": "#FF8C00", "explosiveness": 0f, "flammability": 0f, "radioactivity": 1f, "hardness": 1, "cost": 2f, "alwaysUnlocked": true}

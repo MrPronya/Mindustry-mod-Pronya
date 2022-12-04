@@ -1,0 +1,1 @@
+{ "type": "material", "name": "Лантан", "description": "", "color": "#696969", "explosiveness": 0f, "flammability": 0f, "radioactivity": 2f, "hardness": 6, "cost": 2f, "alwaysUnlocked": true}

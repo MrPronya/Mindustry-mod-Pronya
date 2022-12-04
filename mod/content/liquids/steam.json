@@ -1,0 +1,1 @@
+{ "type": "liquid", "name": "Пар", "description": "", "color": "ffffff", "flammability": 0f, "temperature": 0.7f, "heatCapacity": 0.5f, "viscosity": 0f, "explosiveness": 0f "gas":true}
